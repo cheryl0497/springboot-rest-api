@@ -24,11 +24,3 @@ This is a simple Spring Boot application that provides RESTful APIs for managing
 
 - JDK 11 or higher
 - Maven 3.6.3 or higher
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/StudentManagementSystem.git
-   cd StudentManagementSystem
